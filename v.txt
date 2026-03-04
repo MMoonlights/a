@@ -1,2 +1,2 @@
-Version: 1
-Required: false
+Version: 2
+Required: true
